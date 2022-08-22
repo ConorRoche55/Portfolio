@@ -6,6 +6,7 @@
 
 body {
     background-image: url(cool-background.png);
+    flex-direction: column;
 }
 
 header {
@@ -37,3 +38,18 @@ h1, h3 {
     justify-content: center;
 
 }
+
+.socials {
+    display: flex;
+    position: relative;
+    justify-content: center;
+    top: 150px;
+}
+
+footer p {
+    bottom: 0%;
+    position: fixed;
+    justify-content: center;
+}
+
+  

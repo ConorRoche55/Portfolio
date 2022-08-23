@@ -2,11 +2,17 @@
     box-sizing: border-box;
     margin: 0;
     padding: 0;
+    
 }
 
 body {
-    background-image: url(cool-background.png);
-    flex-direction: column;
+    background-color: white(240, 234, 234);
+    
+}
+
+.logo {
+    height: 70px;
+    width: 70px;
 }
 
 header {
@@ -15,41 +21,61 @@ header {
 }
 
 li {
-    display: inline-block;  
+    display: inline-block;
+    color: black; 
+
 }
 
 h1, h3 {
     position: relative;
-    top: 50px;
+    margin: 35px;
+    font-family: 'Domine', serif;
+    
+    
 }
 
 .info {
     display: flex;
-    justify-content: center;
+    flex-direction: column;
+    text-align: center;
     position: relative;
-    top: 100px;
+    align-items: center;
+    justify-content: center;
+    margin: 35px;
+    
 }
 
 .main-photo {
     height: 300px;
     width: 300px;
     border-radius: 50%;
-    display: flex;
-    justify-content: center;
+    
 
 }
+
+.contact {
+    margin-top: 50px;
+    border-color: black;
+    border-bottom: solid;
+}
+
+
 
 .socials {
     display: flex;
     position: relative;
     justify-content: center;
-    top: 150px;
+    margin: 50px;
+    border-bottom: solid;
 }
 
 footer p {
-    bottom: 0%;
-    position: fixed;
+    display: flex;
+    position: relative;
     justify-content: center;
+    margin: 50px;
 }
+
+
 
   

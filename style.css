@@ -49,9 +49,14 @@ h1, h3 {
     height: 300px;
     width: 300px;
     border-radius: 50%;
-    
-
 }
+
+.about-photo {
+    height: 300px;
+    width: 300px;
+    border-radius: 50%;
+}
+
 
 .contact {
     margin-top: 50px;
@@ -75,6 +80,19 @@ footer p {
     justify-content: center;
     margin: 50px;
 }
+
+/*@media screen and (min-width: 500px) and (max-width: 899px) {
+    main {
+        display: inline-block;
+        direction: row;
+    }
+
+}*/
+
+.about {
+    text-align: center;
+}
+
 
 
 

@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Cinzel&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Mate:ital@1&display=swap');
 * {
     box-sizing: border-box;
     margin: 0;
@@ -87,6 +87,22 @@ footer p {
     margin: 50px;
 }
 
+
+/* about css*/
+.body-text{
+    font-size: 25px;
+    font-family: 'Mate', serif;
+}
+
+/* blog css*/
+.box1 {
+    height: 100px;
+    width: 100px;
+    background-color: aquamarine;
+}
+
+
+
 /*@media screen and (min-width: 500px) and (max-width: 899px) {
     main {
         display: inline-block;
@@ -99,6 +115,8 @@ footer p {
     text-align: center;
 }
 /*
+
+
 
 
 

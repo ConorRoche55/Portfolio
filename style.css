@@ -1,77 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&display=swap');
 * {
     box-sizing: border-box;
     margin: 0;
     padding: 0;
-    
+
 }
 
 body {
     background-color: white(240, 234, 234);
-    
-}
 
-.logo {
-    height: 70px;
-    width: 70px;
 }
 
 header {
-    text-align: center;
-    font-size: 2rem; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column; 
+}
+
+.logo {
+    height: 100px;
+    width: 100px;
 }
 
 li {
+    font-family: 'Cinzel', serif;
+    font-style: normal;
     display: inline-block;
-    color: black; 
+    color: red;
+    font-size: 30px;
+    margin: 15px;
+  
 
 }
 
-h1, h3 {
-    position: relative;
-    margin: 35px;
-    font-family: 'Domine', serif;
-    
-    
-}
-
-.info {
-    display: flex;
-    flex-direction: column;
+main> #page-heading{ 
+    font-family: 'Cinzel', serif;
+    font-style: bold;
+    font-size: 75px;
+    text-shadow: solid black; 
+    margin: 20px;
     text-align: center;
-    position: relative;
-    align-items: center;
-    justify-content: center;
-    margin: 35px;
     
+}
+
+#page-subheading{ 
+    font-family: 'Cinzel', serif;
+    font-style: normal;
+    font-size: 30px;
+    margin: 20px;
+    text-align: center;
+    
+}
+
+.photo-container {
+    display: flex;
+    justify-content: center;
+
 }
 
 .main-photo {
+    margin: 35px;
     height: 300px;
     width: 300px;
     border-radius: 50%;
+    border: solid black;
+
 }
 
-.about-photo {
-    height: 300px;
-    width: 300px;
-    border-radius: 50%;
-}
-
-
-.contact {
+.contact p {
     margin-top: 50px;
-    border-color: black;
-    border-bottom: solid;
 }
-
-
 
 .socials {
     display: flex;
     position: relative;
     justify-content: center;
     margin: 50px;
-    border-bottom: solid;
+    border: solid black;
 }
 
 footer p {
@@ -89,11 +95,10 @@ footer p {
 
 }*/
 
-.about {
+/*.about {
     text-align: center;
 }
+/*
 
 
 
-
-  

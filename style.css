@@ -95,12 +95,31 @@ footer p {
 }
 
 /* blog css*/
-.box1 {
-    height: 100px;
-    width: 100px;
-    background-color: aquamarine;
+
+.blog-container{
+    display: flex;
+    flex-direction: column;
 }
 
+.blog-link {
+    margin-top: 100px;
+    margin-bottom: 0px;
+    height: 300px;
+    width: 300px;
+    border-radius: 15%;
+    border: solid black;
+
+}
+
+.caption {
+        font-size: 16px;
+  
+
+}
+
+.blog-link:hover{
+    transform: scale(1.2);
+}
 
 
 /*@media screen and (min-width: 500px) and (max-width: 899px) {

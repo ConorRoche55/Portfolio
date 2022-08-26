@@ -1,0 +1,56 @@
+/*ipad responsivity 
+@media screen and (min-width: 500px) and (max-width: 899px) {
+    .headings {
+        display: flex;
+        justify-content: left;
+        content: black solid;
+  
+      }
+
+      main {
+        border-top: black dotted;
+        
+      }   
+    }
+
+    @media screen and (min-width: 900px) {
+        .headings {
+            display: flex;
+            justify-content: left;
+            content: black solid;
+      
+          }
+    
+          main {
+            border-top: black solid;
+            border-left: black solid;
+          } 
+
+          .socials {
+            position: top;
+          }
+    }
+    */
+        /*nav {
+            flex: 100%;
+            min-height: 50px;
+        }
+        .feature {
+            flex: 33.3vw;
+            min-height: calc(100vw / 3 * 1.25);
+        }
+        #signup {
+            order: 1;
+            min-height: auto;
+            height: 150px;
+        }
+        header {
+            flex: 100vw;
+            height: 25vw;
+        }
+        main {
+            order:2;
+        }
+    
+    
+    }

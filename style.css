@@ -74,7 +74,6 @@ main> #page-heading{
 
 .socials {
     display: flex;
-    position: relative;
     justify-content: center;
     margin: 50px;
     border: solid black;
@@ -82,7 +81,6 @@ main> #page-heading{
 
 footer p {
     display: flex;
-    position: relative;
     justify-content: center;
     margin: 50px;
 }
@@ -112,7 +110,8 @@ footer p {
 }
 
 .caption {
-        font-size: 16px;
+    
+    font-size: 16px;
   
 
 }
@@ -121,19 +120,15 @@ footer p {
     transform: scale(1.2);
 }
 
-
-/*@media screen and (min-width: 500px) and (max-width: 899px) {
-    main {
-        display: inline-block;
-        direction: row;
-    }
-
-}*/
-
-/*.about {
-    text-align: center;
+.body-text-blog{
+    background-color: rgb(240, 188, 149);
+    font-size: 16px;
+    border-radius: 1.5%;
+    text-align: left;
 }
-/*
+
+
+
 
 
 

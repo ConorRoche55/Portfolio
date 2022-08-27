@@ -1,0 +1,14 @@
+@media screen and (min-width: 500px) {
+   
+    #page-heading {
+        text-align: left;
+        width: fit-content;
+    }
+
+    .photo-container{
+        width: fit-content;
+        position: absolute;
+    }
+  
+  )
+  

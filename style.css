@@ -8,8 +8,10 @@
 
 body {
     background-color: white(240, 234, 234);
+   
 
 }
+
 
 header {
     display: flex;
@@ -23,39 +25,49 @@ header {
     width: 100px;
 }
 
+.logo:hover{
+ 
+        transform: scale(1.2);
+}
+
 li {
     font-family: 'Cinzel', serif;
-    font-style: normal;
     display: inline-block;
-    color: red;
     font-size: 30px;
     margin: 15px;
-  
+}
+
+li:hover{
+    transform: scale(1.2);
 
 }
 
-main> #page-heading{ 
+#page-heading{ 
     font-family: 'Cinzel', serif;
     font-style: bold;
     font-size: 75px;
-    text-shadow: solid black; 
     margin: 20px;
     text-align: center;
-    
+    /*border: black solid;*/
 }
 
 #page-subheading{ 
     font-family: 'Cinzel', serif;
-    font-style: normal;
     font-size: 30px;
     margin: 20px;
     text-align: center;
+    /*border: black solid;*/
+
     
 }
 
 .photo-container {
     display: flex;
     justify-content: center;
+    /*border: black solid;*/
+   /* height: fit-content;
+    width: fit-content;
+    position: absolute;*/
 
 }
 
@@ -70,13 +82,17 @@ main> #page-heading{
 
 .contact p {
     margin-top: 50px;
+    text-align: center;
+    font-family: 'Cinzel', serif;
+    font-size: 25px;
+
 }
 
 .socials {
     display: flex;
     justify-content: center;
     margin: 50px;
-    border: solid black;
+    /*border: solid black;*/
 }
 
 footer p {
@@ -86,10 +102,12 @@ footer p {
 }
 
 
+
 /* about css*/
 .body-text{
     font-size: 25px;
     font-family: 'Mate', serif;
+    text-align: center;
 }
 
 /* blog css*/
@@ -97,6 +115,8 @@ footer p {
 .blog-container{
     display: flex;
     flex-direction: column;
+    background-color: rgb(240, 188, 149);
+    border-radius: 5%;
 }
 
 .blog-link {
@@ -104,8 +124,6 @@ footer p {
     margin-bottom: 0px;
     height: 300px;
     width: 300px;
-    border-radius: 15%;
-    border: solid black;
 
 }
 
@@ -121,7 +139,6 @@ footer p {
 }
 
 .body-text-blog{
-    background-color: rgb(240, 188, 149);
     font-size: 16px;
     border-radius: 1.5%;
     text-align: left;

@@ -29,40 +29,41 @@ Blog pages: Contains contents of blog article with a picture in the middle.
 
 ### Homepage
 
-![homepage wireframe](photos/homepage_wireframe_screenshot.jpg)
+![homepage wireframe](docs/homepage_wireframe_screenshot.jpg)
 
-![homepage screenshot desktop](photos/homepage_screenshot_desktop.jpg)
+![homepage screenshot desktop](docs/homepage_screenshot_desktop.jpg)
 
-![homepage screenshot ipad](photos/homepage_screenshot_ipad.jpg)
+![homepage screenshot ipad](docs/homepage_screenshot_ipad.jpg)
 
-![homepage screenshot iphone](photos/homepage_screenshot_iphone.jpg)
+![homepage screenshot iphone](docs/homepage_screenshot_iphone.jpg)
 
 ### About 
-![about 1 wireframe](photos/about1_wireframe.jpg)
-![about 2 wireframe](photos/about2_wireframe.jpg)
-![about screenshot desktop](photos/about_screenshot_desktop.jpg)
-![about screenshot ipad](photos/about_screenshot_ipad.jpg)
-![about screenshot iphone](photos/about_screenshot_iphone.jpg)
+![about 1 wireframe](docs/about1_wireframe.jpg)
+![about 2 wireframe](docs/about2_wireframe.jpg)
+![about screenshot desktop](docs/about_screenshot_desktop.jpg)
+![about screenshot ipad](docs/about_screenshot_ipad.jpg)
+![about screenshot iphone](docs/about_screenshot_iphone.jpg)
 
 ### Projects
-![projects wireframe](photos/projects_wireframe.jpg)
-![projects screenshot desktop](photos/projects_screenshot_desktop.jpg)
-![projects screenshot ipad](photos/projects_screenshot_ipad.jpg)
-![projects screenshot iphone](photos/projects_screenshot_iphone.jpg)
+![projects wireframe](docs/projects_wireframe.jpg)
+![projects screenshot desktop](docs/projects_screenshot_desktop.jpg)
+![projects screenshot ipad](docs/projects_screenshot_ipad.jpg)
+![projects screenshot iphone](docs/projects_screenshot_iphone.jpg)
 
 ### Blogs
 
-![blogs wireframe](photos/blogs_wireframe.jpg)
-![blogs screenshot desktop](photos/blogs_screenshot_desktop.jpg)
-![blogs screenshot ipad](photos/blogs_screenshot_ipad.jpg)
-![blogs screenshot iphone](photos/blogs_screenshot_iphone.jpg)
+![blogs wireframe](docs/blogs_wireframe.jpg)
+![blogs screenshot desktop](docs/blogs_screenshot_desktop.jpg)
+![blogs screenshot ipad](docs/blogs_screenshot_ipad.jpg)
+![blogs screenshot iphone](docs/blogs_screenshot_iphone.jpg)
 
 ### Blog Page
 
-![blog page wireframe](photos/blog_page_wireframe.jpg)
-![blog page screenshot desktop](photos/blog_page_screenshot_desktop.jpg)
-![blog page screenshot ipad](photos/blog_page_screenshot_ipad.jpg)
-![blog page screenshot iphone](photos/blog_page_screenshot_iphone.jpg)
+![blog page wireframe](docs/blog_page_wireframe.jpg)
+![blog page screenshot desktop](docs/blog_page_screenshot_desktop.jpg)
+![blog page screenshot ipad](docs/blog_page_screenshot_ipad.jpg)
+![blog page screenshot iphone](docs/blog_page_screenshot_iphone.jpg)
 
 ### Tech Stack
 
+CSS, HTML, Figma, 

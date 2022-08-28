@@ -1,7 +1,10 @@
 # Portfolio Documentation
 
-Portfolio Website (link)
-GitHub Repo (link)
+[Portfolio Site](https://velvety-muffin-e77382.netlify.app/)
+
+[GitHub Repo](https://github.com/ConorRoche55/Portfolio)
+
+[Presentation Video](https://youtu.be/FJZl8Cr7PdM)
 
 ## Purpose
 
@@ -19,11 +22,13 @@ About: Two paragraphs briefly outlining my work background, interest in software
 
 Projects: Details that no projects are currently available. This page also has a "not available" image.
 
-Blogs: Img links directing the user to each blog. Underneath each link is the title of the blog. 
+Blogs: Img links directing the user to each blog. Underneath each link is the title of the blog.
 
 Blog pages: Contains contents of blog article with a picture in the middle.
 
 ## Sitemap
+
+![sitemap](docs/sitemap.jpg)
 
 ## Wireframes/Screenshots
 
@@ -37,7 +42,8 @@ Blog pages: Contains contents of blog article with a picture in the middle.
 
 ![homepage screenshot iphone](docs/homepage_screenshot_iphone.jpg)
 
-### About 
+### About
+
 ![about 1 wireframe](docs/about1_wireframe.jpg)
 ![about 2 wireframe](docs/about2_wireframe.jpg)
 ![about screenshot desktop](docs/about_screenshot_desktop.jpg)
@@ -45,6 +51,7 @@ Blog pages: Contains contents of blog article with a picture in the middle.
 ![about screenshot iphone](docs/about_screenshot_iphone.jpg)
 
 ### Projects
+
 ![projects wireframe](docs/projects_wireframe.jpg)
 ![projects screenshot desktop](docs/projects_screenshot_desktop.jpg)
 ![projects screenshot ipad](docs/projects_screenshot_ipad.jpg)
@@ -66,4 +73,6 @@ Blog pages: Contains contents of blog article with a picture in the middle.
 
 ### Tech Stack
 
-CSS, HTML, Figma, 
+-Website: HTML5, CSS3
+-Deployment: Netlify
+-Wireframes/Sitemap: Figma
